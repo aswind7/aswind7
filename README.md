@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=aswind7&fontSize=70&animation=fadeIn&fontAlignY=38)
-
 ## Hi, I'm aswind7 :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=aswind7)
 
 <div align="center">

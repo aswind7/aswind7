@@ -1,16 +1,17 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=aswind7&fontSize=70&animation=fadeIn&fontAlignY=38)
 
-<!--
-**aswind7/aswind7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm aswind7 :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=aswind7)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswind7&layout=compact&theme=chartreuse-dark&count_private=true" />
+  </p>
+  
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=aswind7&theme=algolia&row=1&column=4&margin-w=5" />
+  </p>
+  
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aswind7&count_private=true&theme=highcontrast&show_icons=true" />
+  </p>
+</div>
